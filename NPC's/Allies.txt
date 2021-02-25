@@ -17,12 +17,10 @@ Wants to make bank by any means necessary, will tell anything for a price
 *Gorgle 5/10
 Friendly gnome tinkerer who will share all his knowledge, sells small trinkets that take advantage of little magic
 
-*Kruckle 1/10 (Met)
-Purple dragonborne who sells very quaint natural baskets and hats of the sort. Wants to make the world a better place
-
 *Kima 8/10
 Dragonborne
 Creepy shopkeep who doesn't reveal anything about her wares except that they are extremely valuable
+
 
 
 **Diplomats
@@ -49,6 +47,9 @@ Protective of family belt
 Wants to lead the Dragonborne
 Desires large wealth
 
+*Kruckle 1/10 (Met)
+Purple dragonborne who sells very quaint natural baskets and hats of the sort. Wants to make the world a better place
+
 *Roah
 Human - 9/10 - Large birthmark on hand
 Wisdom +
@@ -68,22 +69,32 @@ Taps leg
 Very curious
 Wants a beautiful thriving community
 
+*Alejandro
+Rat Leader
+seeks to conquer the other people and spread over the world
+Wants to learn everypossible
+
+*Quanivas
+Council Leader
+Lead the rats to peace and only thrive
+
 **Commoners
 
 **Friends & Family
 
 *Owoka
 Luna's adopted mother
-
 *Kuwey
 Luna's band member with the cowbell
-
 *Filbur
 Luna's band member with the spoons
-
 *Ashko Gorum
 Leader of the Council of the Enflamed and Keira's father
-
 *Aldergom Grungle
-
+Melvin's father
 *Sarah Grungle
+Melvin's mother
+*Frivalamalu
+Luna's baby rat
+*Jaquevis
+Reggie's rat
