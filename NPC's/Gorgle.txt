@@ -1,0 +1,17 @@
+**Gorgle
+5/10 (met)
+Friendly gnome tinkerer who will share all his knowledge, sells small trinkets that take advantage of little magic
+
+*Stats - Pro (+3)
+Str 10  0
+Dex 12  +1
+Con 8   -1
+Int 16  +3
+Wis 12  +1
+Cha 6   -2
+
+*Inventory
+Tinkerer's Tools(Proficient)
+Dagger
+Bedroll
+Hammer
